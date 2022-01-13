@@ -1,7 +1,7 @@
 # Sample assembly files in PDBx/mmCIF Format
 
  
-Starting May 3rd 2022, the PDB archive will distribute assembly files in PDBx/mmCIF format, allowing direct access and visualisation of the curated assemblies for all PDB entries.
+Starting May 3rd 2022, the PDB archive will distribute assembly files in PDBx/mmCIF format for every entry, allowing direct access and visualisation of the curated assemblies for all PDB entries.
 
 These updated PDBx/mmCIF format assembly files will have improved organization of assembly data to support usage by the community. These files will include all symmetry generated copies of each chain within a single model, with distinct chain IDs (*\_atom\_site.auth\_asym\_id* and *\_atom\_site.label\_asym\_id*) assigned to each. Generation of distinct chain IDs in assembly files are based upon the following rules:
 
@@ -14,4 +14,4 @@ These updated PDBx/mmCIF format assembly files will have improved organization o
 
 In addition, entity ID and chain ID mapping categories, *\_pdbx\_entity\_remapping* and *\_pdbx\_chain\_remapping* will be provided. 
  
-Within this repository are sample files that will appear on the public repository in May.
+Within this repository are sample files. In May, the assembly files for the entire PDB archive will be available to the public under a new directory **https://ftp.wwpdb.org/pub/pdb/data/assemblies/mmCIF**.
