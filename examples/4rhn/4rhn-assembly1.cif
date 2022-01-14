@@ -752,22 +752,6 @@ _pdbx_struct_oper_list.vector[3]
 1 "identity operation"         1_555 x,y,z              1.0000000000  0.0000000000  0.0000000000 0.0000000000  0.0000000000  1.0000000000 0.0000000000 0.0000000000  0.0000000000 0.0000000000 1.0000000000  0.0000000000  
 2 "crystal symmetry operation" 6_765 -x+2,-x+y+1,-z+1/3 -0.5000000000 -0.8660254038 0.0000000000 76.2750000000 -0.8660254038 0.5000000000 0.0000000000 44.0373917824 0.0000000000 0.0000000000 -1.0000000000 27.2766666667 
 # 
-_cell.entry_id           XXXX 
-_cell.length_a           50.850 
-_cell.length_b           50.850 
-_cell.length_c           81.830 
-_cell.angle_alpha        90.00 
-_cell.angle_beta         90.00 
-_cell.angle_gamma        120.00 
-_cell.Z_PDB              6 
-_cell.pdbx_unique_axis   ? 
-# 
-_symmetry.entry_id                         XXXX 
-_symmetry.space_group_name_H-M             "P 31 2 1" 
-_symmetry.pdbx_full_space_group_name_H-M   ? 
-_symmetry.cell_setting                     ? 
-_symmetry.Int_Tables_number                152 
-# 
 _atom_sites.entry_id                    XXXX 
 _atom_sites.fract_transf_matrix[1][1]   0.019666 
 _atom_sites.fract_transf_matrix[1][2]   0.011354 

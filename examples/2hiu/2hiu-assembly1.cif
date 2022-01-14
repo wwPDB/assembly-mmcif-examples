@@ -274,22 +274,6 @@ HELX_P HELX_P1 AA1 ILE A 2  ? THR A 8  ? ILE A 2  THR A 8  1 ? 7
 HELX_P HELX_P2 AA2 LEU A 13 ? TYR A 19 ? LEU A 13 TYR A 19 1 ? 7  
 HELX_P HELX_P3 AA3 SER B 9  ? CYS B 19 ? SER B 9  CYS B 19 1 ? 11 
 # 
-_cell.entry_id           XXXX 
-_cell.length_a           1.000 
-_cell.length_b           1.000 
-_cell.length_c           1.000 
-_cell.angle_alpha        90.00 
-_cell.angle_beta         90.00 
-_cell.angle_gamma        90.00 
-_cell.Z_PDB              1 
-_cell.pdbx_unique_axis   ? 
-# 
-_symmetry.entry_id                         XXXX 
-_symmetry.space_group_name_H-M             "P 1" 
-_symmetry.pdbx_full_space_group_name_H-M   ? 
-_symmetry.cell_setting                     ? 
-_symmetry.Int_Tables_number                1 
-# 
 _atom_sites.entry_id                    XXXX 
 _atom_sites.fract_transf_matrix[1][1]   1.000000 
 _atom_sites.fract_transf_matrix[1][2]   0.000000 

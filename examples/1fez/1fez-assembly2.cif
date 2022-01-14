@@ -1059,29 +1059,6 @@ AA2 3 MET D 177 ? GLY D 181 ? MET D 181 GLY D 185
 AA2 4 TRP D 196 ? VAL D 200 ? TRP D 200 VAL D 204 
 AA2 5 PHE D 240 ? ILE D 242 ? PHE D 244 ILE D 246 
 # 
-_cell.entry_id           XXXX 
-_cell.length_a           210.478 
-_cell.length_b           45.778 
-_cell.length_c           130.273 
-_cell.angle_alpha        90.00 
-_cell.angle_beta         104.97 
-_cell.angle_gamma        90.00 
-_cell.Z_PDB              16 
-_cell.pdbx_unique_axis   ? 
-_cell.length_a_esd       ? 
-_cell.length_b_esd       ? 
-_cell.length_c_esd       ? 
-_cell.angle_alpha_esd    ? 
-_cell.angle_beta_esd     ? 
-_cell.angle_gamma_esd    ? 
-# 
-_symmetry.entry_id                         XXXX 
-_symmetry.space_group_name_H-M             "C 1 2 1" 
-_symmetry.pdbx_full_space_group_name_H-M   ? 
-_symmetry.cell_setting                     ? 
-_symmetry.Int_Tables_number                5 
-_symmetry.space_group_name_Hall            ? 
-# 
 _atom_sites.entry_id                    XXXX 
 _atom_sites.fract_transf_matrix[1][1]   0.004751 
 _atom_sites.fract_transf_matrix[1][2]   0.000000 

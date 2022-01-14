@@ -794,29 +794,6 @@ AA2 5 ALA A 78  ? ASP A 80  ? ALA A 78  ASP A 80
 AA2 6 HIS A 83  ? GLY A 95  ? HIS A 83  GLY A 95  
 AA2 7 THR A 102 ? GLU A 103 ? THR A 102 GLU A 103 
 # 
-_cell.length_a           31.909 
-_cell.length_b           56.033 
-_cell.length_c           79.670 
-_cell.angle_alpha        90.000 
-_cell.angle_beta         90.000 
-_cell.angle_gamma        90.000 
-_cell.entry_id           XXXX 
-_cell.pdbx_unique_axis   ? 
-_cell.Z_PDB              4 
-_cell.length_a_esd       ? 
-_cell.length_b_esd       ? 
-_cell.length_c_esd       ? 
-_cell.angle_alpha_esd    ? 
-_cell.angle_beta_esd     ? 
-_cell.angle_gamma_esd    ? 
-# 
-_symmetry.space_group_name_H-M             "P 21 21 21" 
-_symmetry.entry_id                         XXXX 
-_symmetry.Int_Tables_number                19 
-_symmetry.pdbx_full_space_group_name_H-M   ? 
-_symmetry.cell_setting                     ? 
-_symmetry.space_group_name_Hall            ? 
-# 
 _atom_sites.entry_id                    XXXX 
 _atom_sites.fract_transf_matrix[1][1]   0.031339 
 _atom_sites.fract_transf_matrix[1][2]   0.000000 
