@@ -11,7 +11,6 @@ _audit_author.identifier_ORCID
 # 
 _struct.entry_id                     XXXX 
 _struct.title                        "GSQASS segment from the Nucleoprotein of SARS-CoV-2, residues 179-184" 
-_struct.pdbx_descriptor              Nucleoprotein 
 _struct.pdbx_model_details           "Amyloid Fibril" 
 _struct.pdbx_formula_weight          ? 
 _struct.pdbx_formula_weight_method   ? 
@@ -313,46 +312,42 @@ SER "L-peptide linking" y SERINE    ? "C3 H7 N O3"   105.093
 # 
 loop_
 _struct_asym.id 
-_struct_asym.pdbx_PDB_id 
-_struct_asym.pdbx_alt_id 
 _struct_asym.pdbx_blank_PDB_chainid_flag 
-_struct_asym.pdbx_type 
-_struct_asym.pdbx_order 
 _struct_asym.pdbx_modified 
 _struct_asym.entity_id 
 _struct_asym.details 
-A    A    ? N ATOMP 1  N 1 ? 
-A-2  A-2  ? N ATOMP 2  N 1 ? 
-A-3  A-3  ? N ATOMP 3  N 1 ? 
-A-4  A-4  ? N ATOMP 4  N 1 ? 
-A-5  A-5  ? N ATOMP 5  N 1 ? 
-A-6  A-6  ? N ATOMP 6  N 1 ? 
-A-7  A-7  ? N ATOMP 7  N 1 ? 
-A-8  A-8  ? N ATOMP 8  N 1 ? 
-A-9  A-9  ? N ATOMP 9  N 1 ? 
-A-10 A-10 ? N ATOMP 10 N 1 ? 
-A-11 A-11 ? N ATOMP 11 N 1 ? 
-A-12 A-12 ? N ATOMP 12 N 1 ? 
-A-13 A-13 ? N ATOMP 13 N 1 ? 
-A-14 A-14 ? N ATOMP 14 N 1 ? 
-A-15 A-15 ? N ATOMP 15 N 1 ? 
-A-16 A-16 ? N ATOMP 16 N 1 ? 
-B    A    ? N HETAS 17 N 2 ? 
-B-2  A-2  ? N HETAS 18 N 2 ? 
-B-3  A-3  ? N HETAS 19 N 2 ? 
-B-4  A-4  ? N HETAS 20 N 2 ? 
-B-5  A-5  ? N HETAS 21 N 2 ? 
-B-6  A-6  ? N HETAS 22 N 2 ? 
-B-7  A-7  ? N HETAS 23 N 2 ? 
-B-8  A-8  ? N HETAS 24 N 2 ? 
-B-9  A-9  ? N HETAS 25 N 2 ? 
-B-10 A-10 ? N HETAS 26 N 2 ? 
-B-11 A-11 ? N HETAS 27 N 2 ? 
-B-12 A-12 ? N HETAS 28 N 2 ? 
-B-13 A-13 ? N HETAS 29 N 2 ? 
-B-14 A-14 ? N HETAS 30 N 2 ? 
-B-15 A-15 ? N HETAS 31 N 2 ? 
-B-16 A-16 ? N HETAS 32 N 2 ? 
+A    N N 1 ? 
+A-2  N N 1 ? 
+A-3  N N 1 ? 
+A-4  N N 1 ? 
+A-5  N N 1 ? 
+A-6  N N 1 ? 
+A-7  N N 1 ? 
+A-8  N N 1 ? 
+A-9  N N 1 ? 
+A-10 N N 1 ? 
+A-11 N N 1 ? 
+A-12 N N 1 ? 
+A-13 N N 1 ? 
+A-14 N N 1 ? 
+A-15 N N 1 ? 
+A-16 N N 1 ? 
+B    N N 2 ? 
+B-2  N N 2 ? 
+B-3  N N 2 ? 
+B-4  N N 2 ? 
+B-5  N N 2 ? 
+B-6  N N 2 ? 
+B-7  N N 2 ? 
+B-8  N N 2 ? 
+B-9  N N 2 ? 
+B-10 N N 2 ? 
+B-11 N N 2 ? 
+B-12 N N 2 ? 
+B-13 N N 2 ? 
+B-14 N N 2 ? 
+B-15 N N 2 ? 
+B-16 N N 2 ? 
 # 
 loop_
 _pdbx_struct_oper_list.id 

@@ -9,9 +9,6 @@ _audit_author.identifier_ORCID
 # 
 _struct.entry_id                     XXXX 
 _struct.title                        "Crystal structure of the SAM-SAH riboswitch with SAH" 
-_struct.pdbx_descriptor              
-;RNA (5'-R(*GP*(CBV)P*GP*GP*GP*GP*AP*CP*GP*AP*CP*CP*CP*CP*GP*C)-3')
-;
 _struct.pdbx_model_details           ? 
 _struct.pdbx_formula_weight          ? 
 _struct.pdbx_formula_weight_method   ? 
@@ -1174,69 +1171,65 @@ U   "RNA linking"       y "URIDINE-5'-MONOPHOSPHATE"                  ? "C9 H13 
 # 
 loop_
 _struct_asym.id 
-_struct_asym.pdbx_PDB_id 
-_struct_asym.pdbx_alt_id 
 _struct_asym.pdbx_blank_PDB_chainid_flag 
-_struct_asym.pdbx_type 
-_struct_asym.pdbx_order 
 _struct_asym.pdbx_modified 
 _struct_asym.entity_id 
 _struct_asym.details 
-A  A ? N ATOMN  1  N 1 ? 
-B  B ? N ATOMN  2  N 1 ? 
-C  C ? N ATOMN  3  N 1 ? 
-D  D ? N ATOMN  4  N 1 ? 
-E  E ? N ATOMN  5  N 1 ? 
-F  F ? N ATOMN  6  N 1 ? 
-G  G ? N ATOMN  7  N 1 ? 
-H  H ? N ATOMN  8  N 1 ? 
-I  I ? N ATOMN  9  N 1 ? 
-J  J ? N ATOMN  10 N 1 ? 
-K  K ? N ATOMN  11 N 1 ? 
-L  L ? N ATOMN  12 N 1 ? 
-M  A ? N HETAIN 13 N 2 ? 
-N  A ? N HETAI  14 N 3 ? 
-O  A ? N HETAI  15 N 4 ? 
-P  A ? N HETAI  16 N 4 ? 
-Q  A ? N HETAI  17 N 4 ? 
-R  A ? N HETAI  18 N 4 ? 
-S  A ? N HETAI  19 N 4 ? 
-T  B ? N HETAIN 20 N 2 ? 
-U  B ? N HETAI  21 N 4 ? 
-V  B ? N HETAI  22 N 4 ? 
-W  C ? N HETAIN 23 N 2 ? 
-X  C ? N HETAI  24 N 3 ? 
-Y  D ? N HETAI  25 N 5 ? 
-Z  D ? N HETAI  26 N 3 ? 
-AA E ? N HETAIN 27 N 2 ? 
-BA E ? N HETAI  28 N 4 ? 
-CA E ? N HETAI  29 N 4 ? 
-DA E ? N HETAI  30 N 4 ? 
-EA F ? N HETAIN 31 N 2 ? 
-FA G ? N HETAIN 32 N 2 ? 
-GA H ? N HETAI  33 N 5 ? 
-HA H ? N HETAI  34 N 3 ? 
-IA H ? N HETAI  35 N 3 ? 
-JA I ? N HETAIN 36 N 2 ? 
-KA I ? N HETAIN 37 N 2 ? 
-LA I ? N HETAI  38 N 4 ? 
-MA I ? N HETAI  39 N 4 ? 
-NA K ? N HETAIN 40 N 2 ? 
-OA L ? N HETAI  41 N 5 ? 
-PA L ? N HETAI  42 N 4 ? 
-QA L ? N HETAI  43 N 4 ? 
-RA A ? N HETAS  44 N 6 ? 
-SA B ? N HETAS  45 N 6 ? 
-TA C ? N HETAS  46 N 6 ? 
-UA D ? N HETAS  47 N 6 ? 
-VA E ? N HETAS  48 N 6 ? 
-WA F ? N HETAS  49 N 6 ? 
-XA G ? N HETAS  50 N 6 ? 
-YA H ? N HETAS  51 N 6 ? 
-ZA I ? N HETAS  52 N 6 ? 
-AB J ? N HETAS  53 N 6 ? 
-BB K ? N HETAS  54 N 6 ? 
-CB L ? N HETAS  55 N 6 ? 
+A  N N 1 ? 
+B  N N 1 ? 
+C  N N 1 ? 
+D  N N 1 ? 
+E  N N 1 ? 
+F  N N 1 ? 
+G  N N 1 ? 
+H  N N 1 ? 
+I  N N 1 ? 
+J  N N 1 ? 
+K  N N 1 ? 
+L  N N 1 ? 
+M  N N 2 ? 
+N  N N 3 ? 
+O  N N 4 ? 
+P  N N 4 ? 
+Q  N N 4 ? 
+R  N N 4 ? 
+S  N N 4 ? 
+T  N N 2 ? 
+U  N N 4 ? 
+V  N N 4 ? 
+W  N N 2 ? 
+X  N N 3 ? 
+Y  N N 5 ? 
+Z  N N 3 ? 
+AA N N 2 ? 
+BA N N 4 ? 
+CA N N 4 ? 
+DA N N 4 ? 
+EA N N 2 ? 
+FA N N 2 ? 
+GA N N 5 ? 
+HA N N 3 ? 
+IA N N 3 ? 
+JA N N 2 ? 
+KA N N 2 ? 
+LA N N 4 ? 
+MA N N 4 ? 
+NA N N 2 ? 
+OA N N 5 ? 
+PA N N 4 ? 
+QA N N 4 ? 
+RA N N 6 ? 
+SA N N 6 ? 
+TA N N 6 ? 
+UA N N 6 ? 
+VA N N 6 ? 
+WA N N 6 ? 
+XA N N 6 ? 
+YA N N 6 ? 
+ZA N N 6 ? 
+AB N N 6 ? 
+BB N N 6 ? 
+CB N N 6 ? 
 # 
 _atom_sites.entry_id                    XXXX 
 _atom_sites.Cartn_transf_matrix[1][1]   ? 

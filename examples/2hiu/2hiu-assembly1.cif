@@ -12,7 +12,6 @@ _audit_author.pdbx_ordinal
 # 
 _struct.entry_id                  XXXX 
 _struct.title                     "NMR STRUCTURE OF HUMAN INSULIN IN 20% ACETIC ACID, ZINC-FREE, 10 STRUCTURES" 
-_struct.pdbx_descriptor           INSULIN 
 _struct.pdbx_model_details        ? 
 _struct.pdbx_CASP_flag            ? 
 _struct.pdbx_model_type_details   ? 
@@ -234,16 +233,12 @@ VAL "L-peptide linking" y VALINE          ? "C5 H11 N O2"    117.146
 # 
 loop_
 _struct_asym.id 
-_struct_asym.pdbx_PDB_id 
-_struct_asym.pdbx_alt_id 
 _struct_asym.pdbx_blank_PDB_chainid_flag 
-_struct_asym.pdbx_type 
-_struct_asym.pdbx_order 
 _struct_asym.pdbx_modified 
 _struct_asym.entity_id 
 _struct_asym.details 
-A A ? N ATOMP 1 N 1 ? 
-B B ? N ATOMP 2 N 2 ? 
+A N N 1 ? 
+B N N 2 ? 
 # 
 _struct_conf_type.id          HELX_P 
 _struct_conf_type.criteria    ? 

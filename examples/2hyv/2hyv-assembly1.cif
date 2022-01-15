@@ -9,7 +9,6 @@ _audit_author.pdbx_ordinal
 # 
 _struct.entry_id                  XXXX 
 _struct.title                     "Human Annexin A2 with heparin hexasaccharide bound" 
-_struct.pdbx_descriptor           "Annexin A2" 
 _struct.pdbx_model_details        ? 
 _struct.pdbx_CASP_flag            ? 
 _struct.pdbx_model_type_details   ? 
@@ -1295,22 +1294,18 @@ VAL "L-peptide linking"           y VALINE                                      
 # 
 loop_
 _struct_asym.id 
-_struct_asym.pdbx_PDB_id 
-_struct_asym.pdbx_alt_id 
 _struct_asym.pdbx_blank_PDB_chainid_flag 
-_struct_asym.pdbx_type 
-_struct_asym.pdbx_order 
 _struct_asym.pdbx_modified 
 _struct_asym.entity_id 
 _struct_asym.details 
-A A ? N ATOMP 1 N 1 ? 
-B B ? N ATOMS 2 N 2 ? 
-C A ? N HETAI 3 N 3 ? 
-D A ? N HETAI 4 N 3 ? 
-E A ? N HETAI 5 N 3 ? 
-F A ? N HETAI 6 N 3 ? 
-G A ? N HETAI 7 N 3 ? 
-H A ? N HETAS 8 N 4 ? 
+A N N 1 ? 
+B N N 2 ? 
+C N N 3 ? 
+D N N 3 ? 
+E N N 3 ? 
+F N N 3 ? 
+G N N 3 ? 
+H N N 4 ? 
 # 
 _struct_conf_type.id          HELX_P 
 _struct_conf_type.criteria    ? 

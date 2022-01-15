@@ -959,28 +959,24 @@ XV7 non-polymer         . 9H-fluorene-2,7-disulfonate ?                 "C13 H10
 # 
 loop_
 _struct_asym.id 
-_struct_asym.pdbx_PDB_id 
-_struct_asym.pdbx_alt_id 
 _struct_asym.pdbx_blank_PDB_chainid_flag 
-_struct_asym.pdbx_type 
-_struct_asym.pdbx_order 
 _struct_asym.pdbx_modified 
 _struct_asym.entity_id 
 _struct_asym.details 
-B    B   ? N ATOMP  1  N 1 ? 
-C-3  C-3 ? N ATOMP  2  N 1 ? 
-K    B   ? N HETAIN 3  N 2 ? 
-L    B   ? N HETAIN 4  N 2 ? 
-M    B   ? N HETAIN 5  N 3 ? 
-N    B   ? N HETAI  6  N 4 ? 
-O    B   ? N HETAI  7  N 4 ? 
-P    B   ? N HETAI  8  N 4 ? 
-Q    B   ? N HETAI  9  N 5 ? 
-R-3  C-3 ? N HETAIN 10 N 2 ? 
-S-3  C-3 ? N HETAIN 11 N 3 ? 
-T-3  C-3 ? N HETAI  12 N 5 ? 
-Z    B   ? N HETAS  13 N 6 ? 
-AA-3 C-3 ? N HETAS  14 N 6 ? 
+B    N N 1 ? 
+C-3  N N 1 ? 
+K    N N 2 ? 
+L    N N 2 ? 
+M    N N 3 ? 
+N    N N 4 ? 
+O    N N 4 ? 
+P    N N 4 ? 
+Q    N N 5 ? 
+R-3  N N 2 ? 
+S-3  N N 3 ? 
+T-3  N N 5 ? 
+Z    N N 6 ? 
+AA-3 N N 6 ? 
 # 
 _struct_conf_type.id          HELX_P 
 _struct_conf_type.criteria    ? 
